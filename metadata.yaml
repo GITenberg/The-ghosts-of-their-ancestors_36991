@@ -1,0 +1,35 @@
+_repo: The-ghosts-of-their-ancestors_36991
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rae, John
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '26297'
+    url: http://www.gutenberg.org/2009/agents/26297
+covers:
+- cover_type: archival
+  image_path: 36991-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mills, Weymer Jay
+    alias: Mills, W. Jay (Weymer Jay)
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '38578'
+    url: http://www.gutenberg.org/2009/agents/38578
+description: ''
+gutenberg_issued: '2011-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- History -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Ghosts -- Fiction'
+title: The ghosts of their ancestors
+url: http://www.gutenberg.org/ebooks/36991
