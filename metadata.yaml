@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '38578'
     url: http://www.gutenberg.org/2009/agents/38578
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36991#The-ghosts-of-their-ancestors
 gutenberg_issued: '2011-08-06'
 gutenberg_type: Text
 identifiers:
